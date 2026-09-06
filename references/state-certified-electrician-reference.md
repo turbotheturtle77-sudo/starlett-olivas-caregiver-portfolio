@@ -17,9 +17,11 @@
 
 ### 1. Work History & Duration
 - **Tenure**: 5 to 10 years of dedicated service for a licensed California Electrical Contracting Firm.
+- **Operational Scope**: Managed office administration, dispatch, scheduling, and paperwork for a **10-man trade crew**.
 - **Role**: Electrical Firm Office Manager, Operations Administrator & Field Support.
 
 ### 2. Key Responsibilities & Capabilities
+- **Crew Management & Dispatch**: Coordinated daily job assignments, timekeeping, payroll logs, and dispatch for a 10-man trade crew across multiple California job sites.
 - **Office & Operations Management**: Managed electrical firm office administration, record-keeping, paperwork, scheduling, and project documentation for 5+ years.
 - **Versatility & Field Operations**: Handled all types of operational tasks and went above and beyond—willingly putting on a hard hat and assisting on field/job sites whenever required.
 - **OSHA & Safety Awareness**: Practical experience with jobsite safety protocols, hard hat compliance, and trade environment logistics.

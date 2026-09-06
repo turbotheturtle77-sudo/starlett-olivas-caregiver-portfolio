@@ -20,8 +20,8 @@ Compassionate and driven student pursuing a career in addiction counseling. Offe
 
 ### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA
 *Electrical Operations & Office Manager / Field Operations Support* | **5+ Years (5–10 Years Tenure)**
-- Managed end-to-end office operations, project scheduling, invoicing, and documentation for a California State Certified Electrician.
-- Coordinated trade dispatch, record-keeping, and customer communication under strict regulatory and trade standards.
+- Managed end-to-end office operations, project scheduling, timekeeping, and documentation for a **10-man trade crew** under a California State Certified Master Electrician.
+- Coordinated crew dispatch, daily job routing, payroll records, and customer communications across multiple Southern California job sites.
 - Executed field support duties, adhering to jobsite safety compliance including hard hat and PPE protocols.
 - **Employer Endorsement**: Rated *"A+ Top-Notch Candidate"* by CA State Certified Electrician.
 

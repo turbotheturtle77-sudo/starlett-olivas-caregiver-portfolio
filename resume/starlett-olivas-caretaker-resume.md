@@ -23,8 +23,8 @@ Dedicated, compassionate, and safety-certified **Caregiver & Patient Care Specia
 
 ### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA  
 *Electrical Operations & Office Manager / Field Support* | **5+ Years (5–10 Years Tenure)**
-- Supervised office operations, documentation, trade records, and scheduling for a California State Certified Electrician.
-- Handled diverse operational administrative functions while maintaining strict accuracy, customer rapport, and task completion.
+- Supervised office administration, timekeeping, trade logs, and dispatch scheduling for a **10-man licensed electrical crew**.
+- Handled diverse operational administrative functions while maintaining strict accuracy, customer rapport, and task completion for a CA State Certified Electrician.
 - Assisted on field and jobsite assignments, utilizing OSHA safety protocols including hard hat and PPE compliance.
 - **Official Endorsement**: Verified by California State Certified Electrician as an *"A+ top-notch candidate"* with exceptional attitude and dedication.
 

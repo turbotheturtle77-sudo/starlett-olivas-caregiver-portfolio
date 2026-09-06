@@ -8,9 +8,9 @@
 ## 1. California State Certified Electrician & Electrical Firm Owner
 - **Role**: Former Employer & Direct Supervisor
 - **Tenure**: 5 to 10 Years
-- **Domain**: Electrical Contracting Firm — Office & Operations Management, Field Hard-Hat Duty
+- **Domain**: Electrical Contracting Firm — Office & Operations Management for **10-Man Trade Crew**, Field Hard-Hat Duty
 - **Verification Statement**:  
-  > *"In my professional opinion as a Certified Electrician to the State of California and God as my witness in the Lord's eyes, I find her to be an **A+ top-notch candidate**. She worked for me for 5 to 10 years doing office work for my electrical firm, managing electrical operations and all types of things, even would put on a hard hat. She always is helpful with a great attitude."*
+  > *"In my professional opinion as a Certified Electrician to the State of California and God as my witness in the Lord's eyes, I find her to be an **A+ top-notch candidate**. She worked for me for 5 to 10 years doing office work for my electrical firm, managing electrical operations for our 10-man crew and all types of things, even would put on a hard hat. She always is helpful with a great attitude."*
 
 ---
 

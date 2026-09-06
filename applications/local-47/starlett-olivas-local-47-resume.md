@@ -9,7 +9,7 @@ Dedicated, operationally disciplined, and compassionate candidate applying for s
 ---
 
 ## RELEVANT COMPETENCIES FOR LOCAL 47 RIVERSIDE
-- **Dispatch & Trade Office Operations**: 5+ years managing trade firm office operations, logs, scheduling, and asset records for a State Certified Electrician.
+- **Dispatch & Trade Office Operations**: 5+ years managing trade firm office operations, logs, crew scheduling, and dispatch for a **10-man licensed electrical crew**.
 - **Field & Jobsite Familiarity**: Hands-on trade experience including hard hat compliance and OSHA 10 safety standards.
 - **Member Advocacy & Support**: Active listening, empathetic conflict resolution, cultural sensitivity, client/member support.
 - **Compliance & Confidentiality**: HIPAA awareness, ethics in counseling, secure handling of private member and trade records.
@@ -21,7 +21,8 @@ Dedicated, operationally disciplined, and compassionate candidate applying for s
 
 ### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA
 *Electrical Operations & Office Manager / Field Support* | **5+ Years (5–10 Years Tenure)**
-- Managed office operations, dispatch paperwork, scheduling, and contractor communications for a CA State Certified Electrician.
+- Managed office administration, daily crew dispatch, job routing, timecards, and paperwork for a **10-man licensed trade crew**.
+- Coordinated multi-site schedules, material orders, permit paperwork, and client communications for a CA State Certified Master Electrician.
 - Demonstrated exceptional versatility handling administrative tasks and field operations, including hard hat jobsite duty.
 - **Employer Reference**: Officially endorsed as an *"A+ top-notch candidate"* by CA State Certified Electrician.
 
