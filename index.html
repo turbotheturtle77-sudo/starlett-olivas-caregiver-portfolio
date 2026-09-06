@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Starlett Olivas — Exam & Interview Prep Suite</title>
+  <title>Starlett Olivas — CADC & OSHA 10 Exam Prep Suite</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -16,10 +16,11 @@
       <div class="header-brand">
         <div class="badge">Imperial Certified</div>
         <h1>Starlett Olivas</h1>
-        <p class="subtitle">CADC Exam & Local 47 Riverside Interview Simulator</p>
+        <p class="subtitle">CADC, OSHA 10 & Local 47 Riverside Exam & Interview Suite</p>
       </div>
       <nav class="nav-tabs">
-        <button class="tab-btn active" data-tab="exam">📝 Exam Simulator</button>
+        <button class="tab-btn active" data-tab="exam">📝 CADC Practice Exam</button>
+        <button class="tab-btn" data-tab="osha">🦺 OSHA 10 Exam</button>
         <button class="tab-btn" data-tab="interview">🎙️ Interview Simulator</button>
         <button class="tab-btn" data-tab="flashcards">🎴 Study Flashcards</button>
       </nav>
@@ -27,7 +28,7 @@
 
     <!-- Main Content -->
     <main class="content-area">
-      <!-- TAB 1: EXAM SIMULATOR -->
+      <!-- TAB 1: CADC EXAM SIMULATOR -->
       <section id="tab-exam" class="tab-content active">
         <div class="section-card">
           <div class="card-header">
@@ -52,17 +53,52 @@
           </div>
 
           <div id="results-screen" class="results-screen hidden">
-            <h3>🎉 Exam Practice Completed!</h3>
+            <h3>🎉 CADC Exam Practice Completed!</h3>
             <div class="score-circle">
               <span id="final-score">0%</span>
             </div>
             <p id="feedback-message"></p>
-            <button id="restart-btn" class="btn primary-btn">Restart Practice Exam</button>
+            <button id="restart-btn" class="btn primary-btn">Restart CADC Practice Exam</button>
           </div>
         </div>
       </section>
 
-      <!-- TAB 2: INTERVIEW SIMULATOR -->
+      <!-- TAB 2: OSHA 10 EXAM SIMULATOR -->
+      <section id="tab-osha" class="tab-content">
+        <div class="section-card">
+          <div class="card-header">
+            <h2>OSHA 10 General Industry Safety Certification Exam</h2>
+            <div class="exam-stats">
+              <span id="osha-score-display">Score: 0/0 (0%)</span>
+              <span id="osha-question-progress">Question 1 of 5</span>
+            </div>
+          </div>
+
+          <div id="osha-quiz-container">
+            <div class="question-box">
+              <h3 id="osha-question-text">Loading OSHA question...</h3>
+              <div id="osha-options-container" class="options-grid"></div>
+            </div>
+
+            <div id="osha-explanation-box" class="explanation-box hidden">
+              <h4>Safety Standard & Explanation</h4>
+              <p id="osha-explanation-text"></p>
+              <button id="osha-next-btn" class="btn primary-btn">Next OSHA Question ➔</button>
+            </div>
+          </div>
+
+          <div id="osha-results-screen" class="results-screen hidden">
+            <h3>🦺 OSHA 10 Exam Practice Completed!</h3>
+            <div class="score-circle">
+              <span id="osha-final-score">0%</span>
+            </div>
+            <p id="osha-feedback-message"></p>
+            <button id="osha-restart-btn" class="btn primary-btn">Restart OSHA 10 Exam</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 3: INTERVIEW SIMULATOR -->
       <section id="tab-interview" class="tab-content">
         <div class="section-card">
           <div class="card-header">
@@ -108,7 +144,7 @@
         </div>
       </section>
 
-      <!-- TAB 3: FLASHCARDS -->
+      <!-- TAB 4: FLASHCARDS -->
       <section id="tab-flashcards" class="tab-content">
         <div class="section-card">
           <div class="card-header">
@@ -142,7 +178,7 @@
     </main>
 
     <footer class="app-footer">
-      <p>Starlett Olivas Exam & Interview Prep Suite • Imperial Standards Enforced • 2026</p>
+      <p>Starlett Olivas CADC & OSHA 10 Prep Suite • Imperial Standards Enforced • 2026</p>
     </footer>
   </div>
 

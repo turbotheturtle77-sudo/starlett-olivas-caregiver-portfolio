@@ -49,13 +49,71 @@ const examQuestions = [
   {
     question: "What concept in Marlatt & Gordon's cognitive-behavioral relapse model describes the intense guilt and perceived loss of control following an initial slip/lapse?",
     options: [
-      "Abstenance Violation Effect (AVE)",
+      "Abstinence Violation Effect (AVE)",
       "Anhedonia",
       "Decisional Balance",
       "Cognitive Reframing"
     ],
     answer: 0,
     explanation: "The Abstinence Violation Effect (AVE) describes the psychological reaction to an initial slip, where guilt/shame can drive a minor lapse into a full-blown relapse."
+  }
+];
+
+const oshaQuestions = [
+  {
+    question: "In OSHA General Industry standards (29 CFR 1910.28), at what height above a lower level is fall protection required for walking-working surfaces?",
+    options: [
+      "2 feet",
+      "4 feet",
+      "6 feet",
+      "10 feet"
+    ],
+    answer: 1,
+    explanation: "Under OSHA General Industry standards, fall protection is required when workers are exposed to falls of 4 feet or more. (In Construction, it is 6 feet)."
+  },
+  {
+    question: "Who is legally authorized to remove a Lockout/Tagout (LOTO) device applied to a piece of machinery during maintenance?",
+    options: [
+      "Any coworker on the shift",
+      "The safety manager",
+      "Only the authorized employee who applied the lock/tag",
+      "The shift supervisor"
+    ],
+    answer: 2,
+    explanation: "Under 29 CFR 1910.147, each lockout/tagout device shall be removed from each energy isolating device by the employee who applied the device."
+  },
+  {
+    question: "According to OSHA's Hazard Communication Standard (HazCom), what signal word indicates a MORE severe hazard on a chemical Safety Data Sheet (SDS)?",
+    options: [
+      "WARNING",
+      "DANGER",
+      "CAUTION",
+      "NOTICE"
+    ],
+    answer: 1,
+    explanation: "Under GHS/HazCom labeling, 'DANGER' is used for more severe hazard categories, while 'WARNING' is used for less severe hazards."
+  },
+  {
+    question: "What level of the Hierarchy of Controls is considered the LEAST effective method of protecting workers from hazards?",
+    options: [
+      "Engineering Controls",
+      "Elimination",
+      "Personal Protective Equipment (PPE)",
+      "Administrative Controls"
+    ],
+    answer: 2,
+    explanation: "PPE is the last line of defense and least effective control method because it does not eliminate or isolate the hazard itself; it relies on worker compliance and proper gear."
+  },
+  {
+    question: "Under the OSHA General Duty Clause (Section 5(a)(1)), what is an employer's primary responsibility?",
+    options: [
+      "To provide health insurance to all employees",
+      "To furnish a workplace free from recognized hazards causing or likely to cause death or serious physical harm",
+      "To guarantee 40 hours of work per week",
+      "To inspect employee vehicles before entry"
+    ],
+    answer: 1,
+    explanation: "Section 5(a)(1) requires employers to furnish to each worker a place of employment free from recognized hazards causing or likely to cause death or serious physical harm."
   }
 ];
 
@@ -84,6 +142,16 @@ const interviewScenarios = [
 
 const flashcardsData = [
   {
+    category: "OSHA 10 Safety",
+    front: "What is the trigger height for fall protection in General Industry under OSHA?",
+    back: "4 Feet above lower levels (29 CFR 1910.28). In Construction it is 6 feet."
+  },
+  {
+    category: "OSHA 10 Safety",
+    front: "What are the 5 levels of the Hierarchy of Controls from most to least effective?",
+    back: "1. Elimination 2. Substitution 3. Engineering Controls 4. Administrative Controls 5. PPE (Personal Protective Equipment)."
+  },
+  {
     category: "Ethics & Law",
     front: "What is the key difference between HIPAA and 42 CFR Part 2?",
     back: "42 CFR Part 2 specifically protects Substance Use Disorder (SUD) records and requires a specific written consent naming the recipient and purpose. HIPAA allows general TPO disclosures."
@@ -97,23 +165,14 @@ const flashcardsData = [
     category: "MI Techniques",
     front: "What does the OARS acronym stand for in Motivational Interviewing?",
     back: "O = Open-ended questions, A = Affirmations, R = Reflective listening, S = Summaries."
-  },
-  {
-    category: "Assessment",
-    front: "What are the 6 Dimensions of the ASAM Criteria?",
-    back: "1. Acute Intoxication/Withdrawal 2. Biomedical 3. Emotional/Cognitive 4. Readiness to Change 5. Relapse Potential 6. Recovery Environment."
-  },
-  {
-    category: "Relapse Prevention",
-    front: "What are Terence Gorski's 3 Phases of Relapse?",
-    back: "1. Emotional Relapse (poor self-care/isolation) 2. Mental Relapse (internal war/bargaining) 3. Physical Relapse (act of using)."
   }
 ];
 
 // 2. STATE VARIABLES
 let currentExamIdx = 0;
 let score = 0;
-let userAnswers = [];
+let currentOshaIdx = 0;
+let oshaScore = 0;
 let currentInterviewIdx = 0;
 let currentFlashIdx = 0;
 
@@ -121,6 +180,7 @@ let currentFlashIdx = 0;
 document.addEventListener('DOMContentLoaded', () => {
   setupTabs();
   loadQuestion();
+  loadOshaQuestion();
   loadInterviewScenario();
   loadFlashcard();
   setupEventListeners();
@@ -139,7 +199,7 @@ function setupTabs() {
   });
 }
 
-// 4. EXAM SIMULATOR LOGIC
+// 4. CADC EXAM SIMULATOR LOGIC
 function loadQuestion() {
   const q = examQuestions[currentExamIdx];
   document.getElementById('question-text').textContent = q.question;
@@ -160,7 +220,7 @@ function loadQuestion() {
 
 function selectOption(selectedIdx, btnElement) {
   const q = examQuestions[currentExamIdx];
-  const buttons = document.querySelectorAll('.option-btn');
+  const buttons = document.querySelectorAll('#options-container .option-btn');
   buttons.forEach(b => b.style.pointerEvents = 'none');
 
   if (selectedIdx === q.answer) {
@@ -200,7 +260,7 @@ function showResults() {
   const finalPct = Math.round((score / examQuestions.length) * 100);
   document.getElementById('final-score').textContent = `${finalPct}%`;
   
-  let msg = finalPct >= 80 ? "Outstanding performance! You are fully prepared for the certification exam." : "Good effort! Review the study modules in your portfolio to strengthen weaker areas.";
+  let msg = finalPct >= 80 ? "Outstanding performance! You are fully prepared for the CADC exam." : "Good effort! Review the study modules in your portfolio to strengthen weaker areas.";
   document.getElementById('feedback-message').textContent = msg;
 }
 
@@ -213,7 +273,81 @@ function restartExam() {
   loadQuestion();
 }
 
-// 5. INTERVIEW SIMULATOR LOGIC
+// 5. OSHA 10 EXAM SIMULATOR LOGIC
+function loadOshaQuestion() {
+  const q = oshaQuestions[currentOshaIdx];
+  document.getElementById('osha-question-text').textContent = q.question;
+  document.getElementById('osha-question-progress').textContent = `Question ${currentOshaIdx + 1} of ${oshaQuestions.length}`;
+  
+  const optionsGrid = document.getElementById('osha-options-container');
+  optionsGrid.innerHTML = '';
+  document.getElementById('osha-explanation-box').classList.add('hidden');
+
+  q.options.forEach((opt, idx) => {
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.textContent = `${String.fromCharCode(65 + idx)}) ${opt}`;
+    btn.addEventListener('click', () => selectOshaOption(idx, btn));
+    optionsGrid.appendChild(btn);
+  });
+}
+
+function selectOshaOption(selectedIdx, btnElement) {
+  const q = oshaQuestions[currentOshaIdx];
+  const buttons = document.querySelectorAll('#osha-options-container .option-btn');
+  buttons.forEach(b => b.style.pointerEvents = 'none');
+
+  if (selectedIdx === q.answer) {
+    btnElement.classList.add('correct');
+    oshaScore++;
+  } else {
+    btnElement.classList.add('incorrect');
+    buttons[q.answer].classList.add('correct');
+  }
+
+  updateOshaScoreDisplay();
+  
+  const expBox = document.getElementById('osha-explanation-box');
+  document.getElementById('osha-explanation-text').textContent = q.explanation;
+  expBox.classList.remove('hidden');
+}
+
+function updateOshaScoreDisplay() {
+  const pct = Math.round((oshaScore / (currentOshaIdx + 1)) * 100);
+  document.getElementById('osha-score-display').textContent = `Score: ${oshaScore}/${currentOshaIdx + 1} (${pct}%)`;
+}
+
+function nextOshaQuestion() {
+  currentOshaIdx++;
+  if (currentOshaIdx < oshaQuestions.length) {
+    loadOshaQuestion();
+  } else {
+    showOshaResults();
+  }
+}
+
+function showOshaResults() {
+  document.getElementById('osha-quiz-container').classList.add('hidden');
+  const results = document.getElementById('osha-results-screen');
+  results.classList.remove('hidden');
+  
+  const finalPct = Math.round((oshaScore / oshaQuestions.length) * 100);
+  document.getElementById('osha-final-score').textContent = `${finalPct}%`;
+  
+  let msg = finalPct >= 80 ? "Excellence verified! You have mastered OSHA 10 Safety Standards." : "Review the OSHA 10 Study Guide module to perfect your safety scores.";
+  document.getElementById('osha-feedback-message').textContent = msg;
+}
+
+function restartOshaExam() {
+  currentOshaIdx = 0;
+  oshaScore = 0;
+  document.getElementById('osha-results-screen').classList.add('hidden');
+  document.getElementById('osha-quiz-container').classList.remove('hidden');
+  updateOshaScoreDisplay();
+  loadOshaQuestion();
+}
+
+// 6. INTERVIEW SIMULATOR LOGIC
 function loadInterviewScenario() {
   const item = interviewScenarios[currentInterviewIdx];
   document.getElementById('interview-category').textContent = item.category.toUpperCase();
@@ -228,7 +362,7 @@ function nextInterview() {
   loadInterviewScenario();
 }
 
-// 6. FLASHCARDS LOGIC
+// 7. FLASHCARDS LOGIC
 function loadFlashcard() {
   const card = flashcardsData[currentFlashIdx];
   document.getElementById('flashcard').classList.remove('flipped');
@@ -238,10 +372,13 @@ function loadFlashcard() {
   document.getElementById('flash-counter').textContent = `${currentFlashIdx + 1} / ${flashcardsData.length}`;
 }
 
-// 7. EVENT LISTENERS
+// 8. EVENT LISTENERS
 function setupEventListeners() {
   document.getElementById('next-btn').addEventListener('click', nextQuestion);
   document.getElementById('restart-btn').addEventListener('click', restartExam);
+
+  document.getElementById('osha-next-btn').addEventListener('click', nextOshaQuestion);
+  document.getElementById('osha-restart-btn').addEventListener('click', restartOshaExam);
   
   document.getElementById('sample-ans-btn').addEventListener('click', () => {
     document.getElementById('sample-answer-box').classList.toggle('hidden');
