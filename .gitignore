@@ -1,0 +1,7 @@
+# Ignore OS files and temp files
+.DS_Store
+*.tmp
+*.log
+node_modules/
+dist/
+build/

@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "Starlett Olivas",
+    "label": "Addiction Counselor in Training & Experienced Caregiver",
+    "email": "STARLMLS213@gmail.com",
+    "phone": "(626) 272-2076",
+    "location": {
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US"
+    },
+    "summary": "Compassionate and driven student pursuing a career in addiction counseling. Offering over five years of combined experience in high-pressure logistics and direct patient care. Committed to applying academic training in addiction studies and hands-on caregiving expertise to support individuals in recovery and contribute meaningfully to the community."
+  },
+  "education": [
+    {
+      "institution": "East Los Angeles Community College",
+      "area": "Addiction Studies",
+      "studyType": "Associate of Arts",
+      "startDate": "2024",
+      "endDate": "Fall 2028",
+      "courses": [
+        "Substance Use Disorders",
+        "Counseling Techniques",
+        "Recovery Support",
+        "Pharmacology of Addiction",
+        "Ethics in Counseling"
+      ],
+      "certificationTrack": "CAADE / CADC Certification Preparation"
+    }
+  ],
+  "work": [
+    {
+      "name": "UPS",
+      "position": "Logistics & Delivery Operations",
+      "startDate": "2021",
+      "endDate": "2024",
+      "location": "Greater Los Angeles Area",
+      "highlights": [
+        "Managed high-volume, time-sensitive deliveries in a demanding, fast-paced environment.",
+        "Demonstrated exceptional reliability and punctuality, representing the company professionally.",
+        "Maintained accurate logs and documentation to ensure accountability for all assets handled."
+      ]
+    },
+    {
+      "name": "Visiting Angels (Private / Home Care)",
+      "position": "Caregiver",
+      "startDate": "2019",
+      "endDate": "2021",
+      "location": "Los Angeles, CA",
+      "highlights": [
+        "Delivered compassionate care and emotional support to vulnerable individuals, assisting with daily living activities and medication adherence.",
+        "Established trusting relationships with clients and families through active listening, empathy, and clear communication.",
+        "Monitored client well-being, documented observations, and reported significant behavioral or physical changes to family members and healthcare providers."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Interpersonal",
+      "keywords": ["Active Listening", "Empathy", "Conflict Resolution", "Cultural Sensitivity"]
+    },
+    {
+      "name": "Professional",
+      "keywords": ["Crisis Management", "HIPAA Awareness", "Patient Advocacy"]
+    },
+    {
+      "name": "Operational",
+      "keywords": ["Time Management", "Documentation & Reporting", "Records Management"]
+    }
+  ]
+}
