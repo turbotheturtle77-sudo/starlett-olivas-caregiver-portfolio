@@ -30,6 +30,18 @@
   ],
   "work": [
     {
+      "name": "Licensed Electrical Contracting Firm",
+      "position": "Electrical Operations & Office Manager / Field Support",
+      "startDate": "5+ Years",
+      "endDate": "5–10 Years Tenure",
+      "location": "Greater Los Angeles, CA",
+      "highlights": [
+        "Managed office operations, paperwork, dispatch logistics, and client communication for a California State Certified Electrician.",
+        "Handled all types of operational tasks and provided field support, adhering to safety protocols including hard hat and PPE compliance.",
+        "Received an official endorsement rating of 'A+ Top-Notch Candidate' from employer."
+      ]
+    },
+    {
       "name": "UPS",
       "position": "Logistics & Delivery Operations",
       "startDate": "2021",
@@ -54,6 +66,13 @@
       ]
     }
   ],
+  "references": [
+    {
+      "name": "California State Certified Electrician & Electrical Firm Owner",
+      "relationship": "Employer & Direct Supervisor (5-10 Years Tenure)",
+      "reference": "In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of things, and would even put on a hard hat. Always helpful with a great attitude."
+    }
+  ],
   "skills": [
     {
       "name": "Interpersonal",
@@ -61,11 +80,11 @@
     },
     {
       "name": "Professional",
-      "keywords": ["Crisis Management", "HIPAA Awareness", "Patient Advocacy"]
+      "keywords": ["Crisis Management", "HIPAA Awareness", "Patient Advocacy", "Trade Office Management"]
     },
     {
       "name": "Operational",
-      "keywords": ["Time Management", "Documentation & Reporting", "Records Management"]
+      "keywords": ["Time Management", "Documentation & Reporting", "Records Management", "OSHA 10 Safety"]
     }
   ]
 }

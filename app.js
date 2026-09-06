@@ -404,4 +404,11 @@ function setupEventListeners() {
       loadFlashcard();
     }
   });
+
+  const toggleRefBtn = document.getElementById('toggle-raw-ref-btn');
+  if (toggleRefBtn) {
+    toggleRefBtn.addEventListener('click', () => {
+      document.getElementById('raw-ref-box').classList.toggle('hidden');
+    });
+  }
 }

@@ -18,6 +18,13 @@ Compassionate and driven student pursuing a career in addiction counseling. Offe
 
 ## WORK EXPERIENCE
 
+### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA
+*Electrical Operations & Office Manager / Field Operations Support* | **5+ Years (5–10 Years Tenure)**
+- Managed end-to-end office operations, project scheduling, invoicing, and documentation for a California State Certified Electrician.
+- Coordinated trade dispatch, record-keeping, and customer communication under strict regulatory and trade standards.
+- Executed field support duties, adhering to jobsite safety compliance including hard hat and PPE protocols.
+- **Employer Endorsement**: Rated *"A+ Top-Notch Candidate"* by CA State Certified Electrician.
+
 ### **UPS** — Greater Los Angeles Area
 *Logistics & Package Handler / Delivery Operations* | **2021 – 2024**
 - Managed high-volume, time-sensitive deliveries in a demanding, fast-paced environment.
@@ -32,9 +39,18 @@ Compassionate and driven student pursuing a career in addiction counseling. Offe
 
 ---
 
+## PROFESSIONAL REFERENCES & VERIFIED ENDORSEMENTS
+
+- **California State Certified Electrician & Electrical Firm Owner**  
+  *Relationship*: Employer & Supervisor (5–10 Years)  
+  *Verification*: *"In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of tasks, and willingly put on a hard hat for field operations. Always helpful with a great attitude."*
+
+---
+
 ## CORE SKILLS
 
 - **Interpersonal**: Active Listening, Empathy, Conflict Resolution, Cultural Sensitivity
 - **Professional**: Crisis Management, HIPAA Awareness, Patient Advocacy
-- **Operational**: Time Management, Documentation & Reporting, Records Management
-- **Key Attributes**: Reliable, Self-Motivated, Adaptable
+- **Operational**: Trade Office Management, Time Management, Documentation & Reporting, Records Management
+- **Key Attributes**: Reliable, Self-Motivated, Adaptable, Safety-Minded (OSHA 10)
+

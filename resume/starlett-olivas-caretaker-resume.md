@@ -21,6 +21,13 @@ Dedicated, compassionate, and safety-certified **Caregiver & Patient Care Specia
 
 ## PROFESSIONAL EXPERIENCE
 
+### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA  
+*Electrical Operations & Office Manager / Field Support* | **5+ Years (5–10 Years Tenure)**
+- Supervised office operations, documentation, trade records, and scheduling for a California State Certified Electrician.
+- Handled diverse operational administrative functions while maintaining strict accuracy, customer rapport, and task completion.
+- Assisted on field and jobsite assignments, utilizing OSHA safety protocols including hard hat and PPE compliance.
+- **Official Endorsement**: Verified by California State Certified Electrician as an *"A+ top-notch candidate"* with exceptional attitude and dedication.
+
 ### **Visiting Angels / Private Home Care** — Los Angeles, CA  
 *Professional Caregiver & Patient Care Specialist* | **2019 – 2021**
 - Delivered 1-on-1 compassionate care and emotional support to elderly and vulnerable clients, assisting with essential Activities of Daily Living (ADLs).
@@ -34,6 +41,14 @@ Dedicated, compassionate, and safety-certified **Caregiver & Patient Care Specia
 - Executed high-volume, physical daily operations in a fast-paced environment under strict time constraints.
 - Maintained an exemplary attendance and punctuality record, demonstrating unwavering reliability and stamina.
 - Applied rigorous safety standards and asset accountability protocols to prevent workplace injury and inventory loss.
+
+---
+
+## VERIFIED REFERENCES & ENDORSEMENTS
+
+- **California State Certified Electrician & Electrical Firm Owner**  
+  *Role & Relationship*: Former Employer & Direct Supervisor (5–10 Years)  
+  *Statement*: *"In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of things, and would even put on a hard hat. Always helpful with a great attitude."*
 
 ---
 

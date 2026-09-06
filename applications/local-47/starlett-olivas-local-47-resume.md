@@ -9,14 +9,21 @@ Dedicated, operationally disciplined, and compassionate candidate applying for s
 ---
 
 ## RELEVANT COMPETENCIES FOR LOCAL 47 RIVERSIDE
-- **Dispatch & Office Operations**: Log management, high-volume documentation, schedule adherence, asset & call record tracking.
+- **Dispatch & Trade Office Operations**: 5+ years managing trade firm office operations, logs, scheduling, and asset records for a State Certified Electrician.
+- **Field & Jobsite Familiarity**: Hands-on trade experience including hard hat compliance and OSHA 10 safety standards.
 - **Member Advocacy & Support**: Active listening, empathetic conflict resolution, cultural sensitivity, client/member support.
-- **Compliance & Confidentiality**: HIPAA awareness, ethics in counseling, secure handling of private member records.
+- **Compliance & Confidentiality**: HIPAA awareness, ethics in counseling, secure handling of private member and trade records.
 - **De-escalation & Communication**: Verbal/written communication, crisis de-escalation, professional representation under pressure.
 
 ---
 
 ## WORK EXPERIENCE
+
+### **Licensed Electrical Contracting Firm** — Greater Los Angeles, CA
+*Electrical Operations & Office Manager / Field Support* | **5+ Years (5–10 Years Tenure)**
+- Managed office operations, dispatch paperwork, scheduling, and contractor communications for a CA State Certified Electrician.
+- Demonstrated exceptional versatility handling administrative tasks and field operations, including hard hat jobsite duty.
+- **Employer Reference**: Officially endorsed as an *"A+ top-notch candidate"* by CA State Certified Electrician.
 
 ### **UPS** — Greater Los Angeles & Regional Logistics
 *Operations & High-Volume Logistics* | **2021 – 2024**
@@ -29,6 +36,13 @@ Dedicated, operationally disciplined, and compassionate candidate applying for s
 - Provided direct, compassionate support to vulnerable individuals, managing daily care schedules and medication adherence.
 - Built trusting relationships with clients and families through active listening, clear communication, and empathetic support.
 - Monitored client well-being, documented daily observations, and maintained strict confidentiality according to privacy guidelines.
+
+---
+
+## VERIFIED TRADE REFERENCE
+
+- **California State Certified Electrician & Electrical Firm Owner**  
+  *"In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of things, and would even put on a hard hat. Always helpful with a great attitude."*
 
 ---
 
