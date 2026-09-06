@@ -45,6 +45,11 @@ Compassionate and driven student pursuing a career in addiction counseling. Offe
   *Relationship*: Employer & Supervisor (5–10 Years)  
   *Verification*: *"In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of tasks, and willingly put on a hard hat for field operations. Always helpful with a great attitude."*
 
+- **Steve — Field Operations Lead & Logistics Supervisor**  
+  *Relationship*: Co-Worker & Field Partner (3 Years)  
+  *Verification*: *"She has that same great attitude, a real go-getter who wants to work and is deeply family-oriented. Worked with us for three years on side repo and field operations."*
+
+
 ---
 
 ## CORE SKILLS

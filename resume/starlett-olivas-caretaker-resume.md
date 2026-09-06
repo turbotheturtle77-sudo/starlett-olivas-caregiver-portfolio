@@ -50,6 +50,11 @@ Dedicated, compassionate, and safety-certified **Caregiver & Patient Care Specia
   *Role & Relationship*: Former Employer & Direct Supervisor (5–10 Years)  
   *Statement*: *"In my professional opinion as a Certified Electrician to the State of California, I find her to be an A+ top-notch candidate. She managed electrical firm office operations for 5+ years, handled all types of things, and would even put on a hard hat. Always helpful with a great attitude."*
 
+- **Steve — Field Operations Lead & Logistics Supervisor**  
+  *Role & Relationship*: Co-Worker & Field Operations Partner (3 Years)  
+  *Statement*: *"She has that same great attitude, a real go-getter who wants to work and is deeply family-oriented. Worked with us for 3 years on side repo and field operations."*
+
+
 ---
 
 ## EDUCATION & PROFESSIONAL CERTIFICATIONS

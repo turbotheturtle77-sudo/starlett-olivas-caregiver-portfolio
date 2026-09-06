@@ -411,4 +411,11 @@ function setupEventListeners() {
       document.getElementById('raw-ref-box').classList.toggle('hidden');
     });
   }
+
+  const toggleSteveBtn = document.getElementById('toggle-steve-ref-btn');
+  if (toggleSteveBtn) {
+    toggleSteveBtn.addEventListener('click', () => {
+      document.getElementById('steve-ref-box').classList.toggle('hidden');
+    });
+  }
 }
