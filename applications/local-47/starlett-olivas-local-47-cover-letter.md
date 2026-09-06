@@ -1,29 +1,27 @@
-# Cover Letter — Local 47 Application
+# Cover Letter — Local 47 (Riverside Office & Dispatch Hall)
 
 **Starlett Olivas**  
-Los Angeles, CA | (626) 272-2076 | STARLMLS213@gmail.com  
+Los Angeles & Inland Empire Region, CA | (626) 272-2076 | STARLMLS213@gmail.com  
 
 ---
 
 **Date**: September 6, 2026  
 
-**To**: Hiring Committee / Member Services & Operations  
-**Organization**: Local 47  
-**Location**: Greater Los Angeles Area, CA  
+**To**: Hiring & Operations Committee  
+**Organization**: Local 47 — Riverside Office & Dispatch Hall  
+**Address**: 1405 Spruce St, Suite H, Riverside, CA 92507  
 
-**Subject**: Application for Staff & Member Support / Administrative Operations Position  
+**Subject**: Application for Staff, Member Services & Dispatch Operations — Riverside Office  
 
 Dear Hiring Committee,
 
-I am writing to express my enthusiastic interest in joining the team at Local 47. With over five years of combined hands-on experience in direct patient/client care, high-pressure logistics, and ongoing academic training in counseling and crisis management, I am eager to bring my dedication to member advocacy, operational discipline, and compassionate service to Local 47.
+I am writing to express my strong interest in joining the staff team at the Local 47 Riverside Office & Dispatch Hall. With over five years of hands-on experience in high-volume logistics operations, direct patient care, and ongoing academic training in counseling and crisis management, I am fully equipped to support member dispatch, administrative operations, and member services in the Riverside and Inland Empire jurisdiction.
 
-Throughout my work in fast-paced environments—from managing high-volume, time-sensitive delivery operations at **UPS** to delivering direct care and assistance at **Visiting Angels**—I have built a reputation for absolute reliability, meticulous documentation, and respectful communication. Working within logistics taught me the vital importance of accountability, punctuality, and compliance with operational standards under demanding conditions. Complementing this, my work as a caregiver honed my ability to listen actively, protect confidential records, and support individuals navigating complex personal and health challenges.
+In my previous roles—including managing fast-paced, high-volume logistics at **UPS** and delivering direct patient care at **Visiting Angels**—I developed exceptional discipline, strict adherence to schedules, and meticulous records management. My experience at UPS taught me how to handle demanding dispatch workflows, maintain accurate logs, and manage high-volume daily operations under pressure. Meanwhile, my work as a caregiver refined my capacity for active listening, empathetic member interaction, HIPAA privacy compliance, and supporting individuals in stressful situations.
 
-Currently pursuing an Associate of Arts in Addiction Studies at East Los Angeles Community College, I am mastering techniques in conflict resolution, ethics, crisis management, and health advocacy. These skills directly translate into supporting union members, managing sensitive records, and maintaining positive, constructive relationships within the organization.
+As an Addiction Studies student at East Los Angeles Community College preparing for state CAADE / CADC certification, I bring formal training in conflict de-escalation, ethics, and health advocacy. These qualifications are directly applicable to assisting union members, maintaining secure member files, and managing office operations at the Riverside Dispatch Hall.
 
-I deeply respect the mission of Local 47 and the essential support it provides to its members. I would welcome the opportunity to discuss how my background in operational discipline, empathetic support, and administrative care will contribute to the continued success of Local 47.
-
-Thank you for your time, consideration, and service to the community.
+I am eager to contribute my operational discipline and member advocacy skills to Local 47’s Riverside office. Thank you for your time, consideration, and dedication to the membership.
 
 Sincerely,  
 
