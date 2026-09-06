@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Starlett Olivas — Exam & Interview Prep Suite</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="badge">Imperial Certified</div>
+        <h1>Starlett Olivas</h1>
+        <p class="subtitle">CADC Exam & Local 47 Riverside Interview Simulator</p>
+      </div>
+      <nav class="nav-tabs">
+        <button class="tab-btn active" data-tab="exam">📝 Exam Simulator</button>
+        <button class="tab-btn" data-tab="interview">🎙️ Interview Simulator</button>
+        <button class="tab-btn" data-tab="flashcards">🎴 Study Flashcards</button>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="content-area">
+      <!-- TAB 1: EXAM SIMULATOR -->
+      <section id="tab-exam" class="tab-content active">
+        <div class="section-card">
+          <div class="card-header">
+            <h2>CAADE / CADC Certification Practice Exam</h2>
+            <div class="exam-stats">
+              <span id="score-display">Score: 0/0 (0%)</span>
+              <span id="question-progress">Question 1 of 5</span>
+            </div>
+          </div>
+
+          <div id="quiz-container">
+            <div class="question-box">
+              <h3 id="question-text">Loading question...</h3>
+              <div id="options-container" class="options-grid"></div>
+            </div>
+
+            <div id="explanation-box" class="explanation-box hidden">
+              <h4>Explanation</h4>
+              <p id="explanation-text"></p>
+              <button id="next-btn" class="btn primary-btn">Next Question ➔</button>
+            </div>
+          </div>
+
+          <div id="results-screen" class="results-screen hidden">
+            <h3>🎉 Exam Practice Completed!</h3>
+            <div class="score-circle">
+              <span id="final-score">0%</span>
+            </div>
+            <p id="feedback-message"></p>
+            <button id="restart-btn" class="btn primary-btn">Restart Practice Exam</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 2: INTERVIEW SIMULATOR -->
+      <section id="tab-interview" class="tab-content">
+        <div class="section-card">
+          <div class="card-header">
+            <h2>Local 47 Riverside & Behavioral Health Interview Simulator</h2>
+            <div class="filter-controls">
+              <button class="filter-btn active" data-category="all">All Questions</button>
+              <button class="filter-btn" data-category="local47">Local 47 Dispatch</button>
+              <button class="filter-btn" data-category="caregiving">Caregiving & Health</button>
+              <button class="filter-btn" data-category="counseling">Addiction Studies</button>
+            </div>
+          </div>
+
+          <div class="interview-box">
+            <div class="scenario-card">
+              <span id="interview-category" class="category-tag">Local 47 Dispatch</span>
+              <h3 id="interview-question">Question loading...</h3>
+              
+              <div class="star-guide">
+                <h4>⭐ Recommended STAR Technique Guidance:</h4>
+                <ul>
+                  <li><strong>Situation:</strong> Describe the context (e.g., high-volume UPS operations or Visiting Angels patient care).</li>
+                  <li><strong>Task:</strong> Explain your specific duty or challenge.</li>
+                  <li><strong>Action:</strong> Detail the step-by-step actions you took (patience, logs, active listening).</li>
+                  <li><strong>Result:</strong> Share the positive outcome (conflict resolved, records updated, safety maintained).</li>
+                </ul>
+              </div>
+
+              <div class="response-area">
+                <label for="user-response">Practice Your Verbal/Written Response:</label>
+                <textarea id="user-response" placeholder="Type your response here or speak it aloud..." rows="5"></textarea>
+                <div class="action-bar">
+                  <button id="sample-ans-btn" class="btn secondary-btn">💡 Show Key Points & Model Answer</button>
+                  <button id="next-interview-btn" class="btn primary-btn">Next Scenario ➔</button>
+                </div>
+              </div>
+
+              <div id="sample-answer-box" class="sample-box hidden">
+                <h4>Key Elements to Highlight:</h4>
+                <p id="sample-answer-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 3: FLASHCARDS -->
+      <section id="tab-flashcards" class="tab-content">
+        <div class="section-card">
+          <div class="card-header">
+            <h2>High-Yield Knowledge Flashcards</h2>
+            <p>Click card to flip between Question and Answer</p>
+          </div>
+
+          <div class="flashcard-container">
+            <div id="flashcard" class="flashcard">
+              <div class="flashcard-inner">
+                <div class="flashcard-front">
+                  <span id="flash-category" class="category-tag">Pharmacology</span>
+                  <h3 id="flash-front-text">Front Loading...</h3>
+                  <p class="click-hint">Click card to flip 🔄</p>
+                </div>
+                <div class="flashcard-back">
+                  <h3>Answer & Key Takeaways</h3>
+                  <p id="flash-back-text">Back Loading...</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="flash-nav">
+              <button id="prev-flash" class="btn secondary-btn">⬅️ Previous</button>
+              <span id="flash-counter">1 / 10</span>
+              <button id="next-flash" class="btn primary-btn">Next ➡️</button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <p>Starlett Olivas Exam & Interview Prep Suite • Imperial Standards Enforced • 2026</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
